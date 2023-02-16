@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+   "titleEn": {
+    "test": "This is a sample text"
+  },
+  "titleFr": {
+    "test": "Ceci est un exemple de texte"
   }
 }
